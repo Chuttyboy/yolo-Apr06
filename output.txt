@@ -1,0 +1,15 @@
+0: 480x640 2 persons, 1 cat, 1 clock, 1: 480x640 2 persons, 1 chair, Done. date (0.635s) Tue, 05 April 03:54:02
+0: 480x640 3 persons, 1 cat, 1 laptop, 1 clock, 1: 480x640 4 persons, 2 chairs, Done. date (0.587s) Tue, 05 April 03:54:05
+0: 480x640 3 persons, 1 chair, 1: 480x640 4 persons, 2 chairs, Done. date (0.582s) Tue, 05 April 03:54:07
+0: 480x640 3 persons, 1: 480x640 4 persons, 2 chairs, 1 tv, Done. date (0.549s) Tue, 05 April 03:54:10
+0: 480x640 3 persons, 1 laptop, 1: 480x640 5 persons, 1 chair, Done. date (0.553s) Tue, 05 April 03:54:12
+0: 480x640 3 persons, 1 laptop, 1: 480x640 4 persons, 2 chairs, Done. date (0.712s) Tue, 05 April 03:54:15
+0: 480x640 3 persons, 1 chair, 1 laptop, 1: 480x640 4 persons, 2 chairs, 1 cell phone, Done. date (0.770s) Tue, 05 April 03:54:18
+0: 480x640 3 persons, 2 chairs, 1 laptop, 1: 480x640 4 persons, 2 chairs, Done. date (0.913s) Tue, 05 April 03:54:21
+0: 480x640 2 persons, 1: 480x640 4 persons, 1 tie, 1 chair, 2 tvs, Done. date (0.582s) Tue, 05 April 03:54:23
+0: 480x640 3 persons, 1: 480x640 4 persons, 1 tie, 1 chair, 2 cell phones, Done. date (0.666s) Tue, 05 April 03:54:26
+0: 480x640 4 persons, 1 laptop, 1: 480x640 4 persons, 1 chair, 1 cell phone, Done. date (0.551s) Tue, 05 April 03:54:28
+0: 480x640 3 persons, 1: 480x640 4 persons, 1 chair, 1 cell phone, Done. date (0.597s) Tue, 05 April 03:54:31
+0: 480x640 3 persons, 1 laptop, 1: 480x640 4 persons, 1 chair, Done. date (0.586s) Tue, 05 April 03:54:33
+0: 480x640 4 persons, 1 laptop, 1: 480x640 4 persons, 1 cup, 1 chair, Done. date (0.587s) Tue, 05 April 03:54:36
+0: 480x640 3 persons, 1 laptop, 1: 480x640 4 persons, 2 chairs, Done. date (0.580s) Tue, 05 April 03:54:38

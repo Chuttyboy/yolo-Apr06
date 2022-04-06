@@ -1,0 +1,19 @@
+To create python virtual environment    ==>  python3 -m venv yolo
+
+To activate virtual environment         ==>  source yolo/bin/activate
+
+install basic requirement package from  ==>  requirement.txt 
+
+install package inside requirement.txt  ==>  pip install -r requirements.txt
+
+To run this code                        ==>  python3 path/to/detect.py --weights yolov5s.pt --source 0  #webcam
+                                            
+These are the code to run diff source   ==>    img.jpg                          # image
+                                        ==>    vid.mp4                          # video                                          
+                                        ==>    path/                            # directory                                         
+                                        ==>    path/*.jpg                       # glob                                          
+                                        ==>    'https://youtu.be/Zgi9g1ksQHc'   # YouTube                                            
+                                        ==>    'rtsp://example.com/media.mp4'   # RTSP, RTMP, HTTP stream
+Python interpreter                      ==>     Python 3.6     
+
+list of connected cams                  ==>  lsof /dev/video*
